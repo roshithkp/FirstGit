@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="22341" started-at="2018-06-10T11:20:16Z" finished-at="2018-06-10T11:20:38Z">
+    <groups>
+    </groups>
+    <test name="Regression1" duration-ms="22341" started-at="2018-06-10T11:20:16Z" finished-at="2018-06-10T11:20:38Z">
+      <class name="com.MVN.SampleProject.SmokeTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.MVN.SampleProject.SmokeTest@8806ef]" name="beforeSuite" is-config="true" duration-ms="16" started-at="2018-06-10T11:20:16Z" finished-at="2018-06-10T11:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.MVN.SampleProject.SmokeTest@8806ef]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-06-10T11:20:16Z" finished-at="2018-06-10T11:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.MVN.SampleProject.SmokeTest@8806ef]" name="beforeClass" is-config="true" duration-ms="1" started-at="2018-06-10T11:20:16Z" finished-at="2018-06-10T11:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.MVN.SampleProject.SmokeTest@8806ef]" name="f" duration-ms="1" started-at="2018-06-10T11:20:16Z" finished-at="2018-06-10T11:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.MVN.SampleProject.SmokeTest@8806ef]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-06-10T11:20:16Z" finished-at="2018-06-10T11:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.MVN.SampleProject.SmokeTest@8806ef]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-06-10T11:20:16Z" finished-at="2018-06-10T11:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.MVN.SampleProject.SmokeTest@8806ef]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-06-10T11:20:16Z" finished-at="2018-06-10T11:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.MVN.SampleProject.SmokeTest@8806ef]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-06-10T11:20:16Z" finished-at="2018-06-10T11:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.MVN.SampleProject.SmokeTest@8806ef]" name="afterClass" is-config="true" duration-ms="1" started-at="2018-06-10T11:20:16Z" finished-at="2018-06-10T11:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.MVN.SampleProject.SmokeTest@8806ef]" name="test" duration-ms="0" started-at="2018-06-10T11:20:16Z" finished-at="2018-06-10T11:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.MVN.SampleProject.SmokeTest@8806ef]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-06-10T11:20:38Z" finished-at="2018-06-10T11:20:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.MVN.SampleProject.SmokeTest@8806ef]" name="afterSuite" is-config="true" duration-ms="0" started-at="2018-06-10T11:20:39Z" finished-at="2018-06-10T11:20:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.MVN.SampleProject.SmokeTest -->
+      <class name="com.MVN.SampleProject.MyFirstChromeTest">
+        <test-method status="PASS" signature="startWebDriver()[pri:0, instance:com.MVN.SampleProject.MyFirstChromeTest@49835d]" name="startWebDriver" duration-ms="22302" started-at="2018-06-10T11:20:16Z" finished-at="2018-06-10T11:20:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startWebDriver -->
+      </class> <!-- com.MVN.SampleProject.MyFirstChromeTest -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
